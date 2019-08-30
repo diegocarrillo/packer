@@ -1,2 +1,2 @@
 # packer
-Packer exercises from Learning course
+- Packer exercises from Learning course
